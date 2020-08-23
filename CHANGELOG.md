@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/dword-design/wordpress-theme-flatout-folk/compare/v1.0.1...v1.0.2) (2020-08-23)
+
+
+### Bug Fixes
+
+* upgrades ([ebd1e2f](https://github.com/dword-design/wordpress-theme-flatout-folk/commit/ebd1e2f55f2787169c9614f124381bb2c3aed6f8))
+
 ## [1.0.1](https://github.com/dword-design/wordpress-theme-flatout-folk/compare/v1.0.0...v1.0.1) (2020-08-23)
 
 
