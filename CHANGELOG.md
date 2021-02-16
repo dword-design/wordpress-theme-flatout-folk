@@ -1,3 +1,10 @@
+## [1.0.4](https://github.com/dword-design/wordpress-theme-flatout-folk/compare/v1.0.3...v1.0.4) (2021-02-16)
+
+
+### Bug Fixes
+
+* **deps:** update dependency @dword-design/base to v7 ([#5](https://github.com/dword-design/wordpress-theme-flatout-folk/issues/5)) ([5289a24](https://github.com/dword-design/wordpress-theme-flatout-folk/commit/5289a2458433957defba5f72d6f5846c927c7873))
+
 ## [1.0.3](https://github.com/dword-design/wordpress-theme-flatout-folk/compare/v1.0.2...v1.0.3) (2021-02-16)
 
 
