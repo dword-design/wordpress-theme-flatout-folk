@@ -1,7 +1,7 @@
 {
   "name": "wordpress-theme-flatout-folk",
   "version": "1.0.9",
-  "description": "",
+  "description": null,
   "repository": "dword-design/wordpress-theme-flatout-folk",
   "funding": "https://www.buymeacoffee.com/dword",
   "license": "MIT",
@@ -25,5 +25,7 @@
   "publishConfig": {
     "access": "public"
   },
-  "baseConfig": "@dword-design/wordpress-theme"
+  "baseConfig": "@dword-design/wordpress-theme",
+  "homepage": null,
+  "keywords": []
 }
