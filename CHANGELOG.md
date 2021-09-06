@@ -1,3 +1,10 @@
+## [1.0.25](https://github.com/dword-design/wordpress-theme-flatout-folk/compare/v1.0.24...v1.0.25) (2021-09-06)
+
+
+### Bug Fixes
+
+* lock file maintenance ([77f093d](https://github.com/dword-design/wordpress-theme-flatout-folk/commit/77f093df800f60475a9ca164e403662d4e1efe54))
+
 ## [1.0.24](https://github.com/dword-design/wordpress-theme-flatout-folk/compare/v1.0.23...v1.0.24) (2021-08-30)
 
 
